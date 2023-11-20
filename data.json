@@ -1,0 +1,10 @@
+{
+  "bandwidth": {
+    "speedometer": 100,
+    "trafficLight": "green"
+  },
+  "renewal": {
+    "dueTime": "2023-12-31",
+    "paymentMethod": "Alipay"
+  }
+}
